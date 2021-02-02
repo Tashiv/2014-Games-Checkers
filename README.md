@@ -7,7 +7,7 @@ An animated Checkers game built using Java's Swing Framework.
 javac com/tashiv/checkers/*.java
 
 # package as runnable jar file
-jar cfm checkers.jar manifest/MANIFEST.MF com/tashiv/checkers/*.class images
+jar cfm checkers.jar manifest/MANIFEST.MF com/tashiv/checkers/*.class
 ```
 
 ## Usage
