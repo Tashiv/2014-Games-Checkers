@@ -1,5 +1,5 @@
 # 2014-games-checkers
-An animated Checkers game built using Java's JPanel Framework.
+An animated Checkers game built using Java's Swing Framework.
 
 ## Compile
 ```bash
