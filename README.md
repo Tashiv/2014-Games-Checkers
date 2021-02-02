@@ -17,3 +17,4 @@ java -jar checkers.jar
 ```
 
 ## Screenshots
+<img src="https://github.com/Tashiv/2014-Games-Checkers/blob/master/.media/gameplay.gif?raw=true">
