@@ -12,7 +12,7 @@ jar cfm checkers.jar manifest/MANIFEST.MF com/tashiv/checkers/*.class
 
 ## Usage
 ```bash
-# run the jar file
+# run the jar file - make sure the 'images' folder is in the same directory
 java -jar checkers.jar
 ```
 
